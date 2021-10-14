@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Betting Strategies</string>
+    <string name="title_strategies">Strategies</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="title_strategy_1">All-in on odds at 1.20 strategy</string>
+    <string name="strategy_1">This betting strategy involves winning
+        numerous bets one after the other and always using the maximum
+        offers the opportunity to earn decent money. But it is also clear
+        that all the money is gone if you lose a bet. But if you manage
+        to win 30, 35, maybe even 40 times in a row, you’ll get big money!</string>
+
+    <string name="title_strategy_2">The Fibonacci betting system</string>
+    <string name="strategy_2">Fibonacci sequence betting is undoubtedly
+        a controversial concept. But there are definitely sports bettors
+        who were able to achieve great success with it. This strategy
+        carries some risks, but with the necessary luck and the right nose,
+        you can be successful while employing this strategy.
+
+        The basic concept of betting according to the Fibonacci sequence
+        is simple: bet on a tie. If you lose, just bet on the next tie
+        according to a certain key and start increasing your stake.</string>
+
+    <string name="title_strategy_3">Dutching in sports betting</string>
+    <string name="strategy_3">Dutching is ideal for multi-outcome events
+        where you think you can break the possible outcomes down to two or
+        three; but in theory, you can bet on any number of selections.
+        The fewer selections you make in dutching, the fewer losers you support
+        and the more profit you make from them. However, by dutching fewer
+        selections, you increase your risk.</string>
+
+    <string name="title_strategy_4">Early cashout in sports betting</string>
+    <string name="strategy_4">If the team or player you are supporting is
+        in a winning position but is being led out by the opponent,
+        then you should definitely make a cashout and secure the appropriate
+        profit instead of watching your potential profit and stake vanish
+        into thin air. Your forecast proves correct and your choices lose the lead.</string>
+
+    <string name="title_strategy_5">What’s a Money Race?</string>
+    <string name="strategy_5">The Money Race can be run with all possible types of bets.
+        In most cases, however, the focus is specifically on low odds and thus “safe bets”,
+        in order to win as many bets as possible in a row. In this case, the Money
+        Race is particularly interesting for sports bettors with a high bankroll.
+        If the Money Race is started with a rather high initial stake, you will save
+        yourself numerous necessary profits on the way to the self-imposed goal.
+        At the same time, however, the risk of loss is also greater.</string>
+
+    <string name="title_strategy_6">Betting on a draw</string>
+    <string name="strategy_6">Try to find games where both teams will have
+        a hard time defeating each other. For example, look for teams from
+        the better league average that compete against top teams at home.
+        The visiting team has the quality to not lose, while at the same time
+        they will have problems when it comes to actually bending the favourite.
+        In this situation, both teams are happy with a draw and that is often the result.</string>
+</resources>

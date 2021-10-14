@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_strategies"
+        android:icon="@drawable/ic_strategies_24dp"
+        android:title="@string/title_strategies" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@mipmap/img_favorites"
+        android:title="@string/title_favorites" />
+
+</menu>
